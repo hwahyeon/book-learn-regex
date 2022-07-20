@@ -22,7 +22,7 @@
 |06|[위치 찾기](https://github.com/hwahyeon/learn_REX/blob/main/06.Position.ipynb)||
 |07|[하위 표현식 사용하기](https://github.com/hwahyeon/learn_REX/blob/main/07.Subexpressions.ipynb)||
 |08|[역참조 사용하기](https://github.com/hwahyeon/learn_REX/blob/main/08.Backreferences.ipynb)||
-|09|[전방탐색과 후방탐색]()||
-|10|[조건 달기]()||
-|11|[정규 표현식으로 해결하는 일반적인 문제들]()||
+|09|[전방탐색과 후방탐색](https://github.com/hwahyeon/learn_REX/blob/main/09.AheadAndBehind.ipynb)||
+|10|[조건 달기](https://github.com/hwahyeon/learn_REX/blob/main/10.Conditions.ipynb)||
+|11|[정규 표현식으로 해결하는 일반적인 문제들](https://github.com/hwahyeon/learn_REX/blob/main/11.CommonProblems.ipynb)||
 |부록 A|[많이 쓰는 애플리케이션과 언어에서 활용하는 정규 표현식](https://github.com/hwahyeon/learn_REX/blob/main/Appendix%20A.ipynb)||
